@@ -21,7 +21,8 @@ For this project, the following libraries were used:
 #### Run the following command anywhere:
 ##### `brew install ffmpeg`
 
-#### Run the following command from both the <i>client</i> and <i>server</i> directories directory:
+#### Run the following commands from in the <i>client</i> and <i>server</i> directories directory:
+##### `npm install`
 ##### `npm start`
 You should now be able to access the application at `http://localhost:3000/`
 
