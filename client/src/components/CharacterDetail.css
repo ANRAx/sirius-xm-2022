@@ -1,0 +1,24 @@
+.CharacterDetail {
+  background-color: #ffffff;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  padding-left: 40px;
+  display: flex;
+}
+
+.character-info {
+  text-align: left;
+  padding-left: 25px;
+  margin-top: 15px;
+}
+
+.character-profile {
+  height: 200px;
+  width: 200px;
+}
+
+.character-detail-week-info {
+  margin-top: 10px;
+  font-size: 11px;
+  font-weight: bold;
+}

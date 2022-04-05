@@ -1,0 +1,21 @@
+.table-header-title {
+  font-weight: bold;
+  color: #b8b8b8;
+  font-size: 15px;
+}
+
+.table-row-info {
+  font-weight: bold;
+  font-size: 12px;
+}
+
+.table-row-caption {
+  font-size: 10px;
+  color: #b8b8b8;
+}
+
+.table-row-created {
+  font-weight: bold;
+  font-size: 12px;
+}
+

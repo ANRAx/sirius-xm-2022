@@ -1,0 +1,15 @@
+.Navbar {
+  color: white;
+  background: #0a52c2;
+  padding: 25px;
+}
+
+.navbar-info {
+  display: flex;
+  justify-content: space-between;
+}
+
+.navbar-title {
+  display: flex;
+  text-decoration: underline;
+}
